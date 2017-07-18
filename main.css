@@ -39,6 +39,11 @@ section:nth-child(even) {
   background-color: #ddd;
 }
 
+table {
+  width: 80%;
+  margin: 0 auto;
+}
+
 p {
   margin: 0 auto;
   max-width: 650px;
